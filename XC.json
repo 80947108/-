@@ -15,7 +15,16 @@
     "sites": [
         {
             "key": "csp_77",
-            "name": "👒酷云七七┃本接口免费,花钱买就是铁憨憨🈲",
+            "name": "飞哥自用接口",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+                {
+            "key": "csp_77",
+            "name": "👒酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
