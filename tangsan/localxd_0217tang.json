@@ -1,4 +1,4 @@
-{ //qq频道:TVBox本地包https://qun.qq.com/qqweb/qunpro/share?inviteCode=1XBvP1xJJY9，tg频道 https://t.me/TVBox_local,tg群@tvboxlocal
+{ 
     "sites": [
         {
             "key": "世界杯",
@@ -297,33 +297,6 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
-        },
-        {
-            "key": "local1",
-            "name": "本地化by小灰灰",
-            "type": 3,
-            "api": "",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "local2",
-            "name": "Q频道搜:本地包",
-            "type": 3,
-            "api": "",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "local3",
-            "name": "tg@TVBoxLocal",
-            "type": 3,
-            "api": "",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
         }
     ],
     "lives": [
