@@ -22,6 +22,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+         {
+            "key": "多米蓝光",
+            "name": "💧多米蓝光",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://http://vod.dmdh.top:5680//api.php/app/"
+        },
         {
             "key": "dr_豆瓣",
             "name": "🔍豆瓣荐片(js)",
